@@ -1,0 +1,13 @@
+package POMHome;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+public class POMHomeScr {
+
+	public WebDriver driver=null;
+	public WebElement getFirstName()
+	{
+		
+	}
+}

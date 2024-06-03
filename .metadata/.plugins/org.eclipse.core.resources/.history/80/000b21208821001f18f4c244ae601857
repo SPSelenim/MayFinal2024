@@ -1,0 +1,35 @@
+package Home;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Test;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class HomeTest {
+ 
+	@BeforeSuite
+	public void testSetup()
+	{
+		try
+		{
+			WebDriverManager.chromedriver().setup();
+			WebDriver driver=new ChromeDriver();
+			driver.get("file:///D:/SeleniumAutomation/05DemoApps/demo.html");
+
+		}
+		catch(Exception e)
+		{
+			System.out.println(e.getMessage());
+		}
+	}
+	
+	@Test
+  public void f() {
+	  
+	  System.out.println(" F R - START");
+	
+	  
+  }
+}

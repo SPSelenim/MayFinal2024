@@ -1,0 +1,29 @@
+package Home;
+
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Test;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class HomeTest {
+ 
+	@BeforeSuite
+	public void testSetup()
+	{
+		try
+		{
+			WebDriverManager.chromedriver().setup();
+		}
+		catch(Exception e)
+		{
+			System.out.println(e.getMessage());
+		}
+	}
+	
+	@Test
+  public void f() {
+	  
+	  System.out.println(" F R - START");
+	  
+  }
+}

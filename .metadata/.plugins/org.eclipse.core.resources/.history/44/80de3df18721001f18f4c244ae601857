@@ -1,0 +1,20 @@
+package Home;
+
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Test;
+
+public class HomeTest {
+ 
+	@BeforeSuite
+	public void testSetup()
+	{
+		
+	}
+	
+	@Test
+  public void f() {
+	  
+	  System.out.println(" F R - START");
+	  
+  }
+}

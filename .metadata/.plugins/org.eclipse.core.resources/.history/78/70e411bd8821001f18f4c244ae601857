@@ -1,0 +1,12 @@
+package POMHome;
+
+import org.openqa.selenium.WebElement;
+
+public class POMHomeScr {
+
+	
+	public WebElement getFirstName()
+	{
+		
+	}
+}
