@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="4.427" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="4.454" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -26,7 +26,7 @@
     <property name="user.variant" value=""/>
     <property name="stderr.encoding" value="UTF-8"/>
     <property name="os.name" value="Windows 11"/>
-    <property name="classworlds.conf" value="D:\Satish\03Eclipse_Workspace\final2024\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7882389890452952123.tmp"/>
+    <property name="classworlds.conf" value="D:\Satish\03Eclipse_Workspace\final2024\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf16500795157981448404.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="stdout.encoding" value="UTF-8"/>
     <property name="java.library.path" value="D:\SeleniumAutomation\02Eclipse\eclipse-java-2024-03-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/SeleniumAutomation/02Eclipse/eclipse-java-2024-03-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin/server;D:/SeleniumAutomation/02Eclipse/eclipse-java-2024-03-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;D:\Satish\09Maven\apache-maven-3.8.8\bin;C:\Users\Parth\AppData\Local\Microsoft\WindowsApps;;D:\SeleniumAutomation\02Eclipse\eclipse-java-2024-03-R-win32-x86_64\eclipse;;."/>
@@ -59,9 +59,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="java.vendor.version" value="Temurin-17.0.10+7"/>
-    <property name="m2e.build.project.data.socket.port" value="50864"/>
+    <property name="m2e.build.project.data.socket.port" value="51471"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="f" classname="Home.HomeTest" time="2.181"/>
-  <testcase name="f" classname="Search.SearchTest" time="2.246"/>
+  <testcase name="f" classname="Home.HomeTest" time="2.243"/>
+  <testcase name="f" classname="Search.SearchTest" time="2.211"/>
 </testsuite>

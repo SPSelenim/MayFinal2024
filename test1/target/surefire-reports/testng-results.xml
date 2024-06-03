@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-03T17:42:31 IST" name="Suite" finished-at="2024-06-03T17:42:36 IST" duration-ms="4466">
+  <suite started-at="2024-06-03T17:50:54 IST" name="Suite" finished-at="2024-06-03T17:50:59 IST" duration-ms="4492">
     <groups>
     </groups>
-    <test started-at="2024-06-03T17:42:31 IST" name="Test" finished-at="2024-06-03T17:42:36 IST" duration-ms="4466">
+    <test started-at="2024-06-03T17:50:54 IST" name="Test" finished-at="2024-06-03T17:50:59 IST" duration-ms="4492">
       <class name="Home.HomeTest">
-        <test-method is-config="true" signature="testSetup()[pri:0, instance:Home.HomeTest@484970b0]" started-at="2024-06-03T17:42:28 IST" name="testSetup" finished-at="2024-06-03T17:42:30 IST" duration-ms="2130" status="PASS">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:Home.HomeTest@484970b0]" started-at="2024-06-03T17:50:51 IST" name="testSetup" finished-at="2024-06-03T17:50:53 IST" duration-ms="2227" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetup -->
-        <test-method signature="f()[pri:0, instance:Home.HomeTest@484970b0]" started-at="2024-06-03T17:42:31 IST" name="f" finished-at="2024-06-03T17:42:34 IST" duration-ms="2182" status="PASS">
+        <test-method signature="f()[pri:0, instance:Home.HomeTest@484970b0]" started-at="2024-06-03T17:50:54 IST" name="f" finished-at="2024-06-03T17:50:57 IST" duration-ms="2242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Home.HomeTest@484970b0]" started-at="2024-06-03T17:42:36 IST" name="tearDown" finished-at="2024-06-03T17:42:37 IST" duration-ms="532" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Home.HomeTest@484970b0]" started-at="2024-06-03T17:50:59 IST" name="tearDown" finished-at="2024-06-03T17:50:59 IST" duration-ms="491" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- Home.HomeTest -->
       <class name="Search.SearchTest">
-        <test-method is-config="true" signature="testSetup()[pri:0, instance:Search.SearchTest@1018bde2]" started-at="2024-06-03T17:42:30 IST" name="testSetup" finished-at="2024-06-03T17:42:31 IST" duration-ms="1472" status="PASS">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:Search.SearchTest@1018bde2]" started-at="2024-06-03T17:50:53 IST" name="testSetup" finished-at="2024-06-03T17:50:54 IST" duration-ms="1211" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetup -->
-        <test-method signature="f()[pri:0, instance:Search.SearchTest@1018bde2]" started-at="2024-06-03T17:42:34 IST" name="f" finished-at="2024-06-03T17:42:36 IST" duration-ms="2247" status="PASS">
+        <test-method signature="f()[pri:0, instance:Search.SearchTest@1018bde2]" started-at="2024-06-03T17:50:57 IST" name="f" finished-at="2024-06-03T17:50:59 IST" duration-ms="2212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Search.SearchTest@1018bde2]" started-at="2024-06-03T17:42:37 IST" name="tearDown" finished-at="2024-06-03T17:42:37 IST" duration-ms="439" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Search.SearchTest@1018bde2]" started-at="2024-06-03T17:50:59 IST" name="tearDown" finished-at="2024-06-03T17:51:00 IST" duration-ms="95" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
