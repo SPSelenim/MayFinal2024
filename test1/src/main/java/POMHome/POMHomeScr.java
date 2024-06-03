@@ -7,6 +7,7 @@ import org.openqa.selenium.WebElement;
 public class POMHomeScr {
 
 	//Added comment
+	//Changed comments
 	public WebDriver driver = null;
 	public String First = "fname";
 	public String Last = "lname";
